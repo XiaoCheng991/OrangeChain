@@ -20,10 +20,17 @@ See: [PROJECT.md](./PROJECT.md) (updated 2026-03-24)
 
 ### 待进行
 
-- [ ] Phase 1: 文档解析与向量存储
+- [ ] Phase 1: 文档解析与向量存储 (规划完成，待执行)
 - [ ] Phase 2: 检索系统构建
 - [ ] Phase 3: 核心问答功能
 - [ ] Phase 4: 增强功能与优化
+
+### 当前阶段
+
+- **Phase 1**: 规划完成，可以开始执行
+  - 详细计划: `.planning/phase-1/PLAN.md`
+  - 验证标准: `.planning/phase-1/VERIFICATION.md`
+  - 工时预估: 18-22h
 
 ## 快速开始
 
