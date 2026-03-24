@@ -8,24 +8,24 @@
 
 ## 需求追踪矩阵
 
-| REQ-ID | 优先级 | 类别 | 状态 |
-|--------|--------|------|------|
-| REQ-DOC-001 | P0 | 文档解析 | 待开发 |
-| REQ-DOC-002 | P0 | 文档解析 | 待开发 |
-| REQ-DOC-003 | P0 | 文档解析 | 待开发 |
-| REQ-DOC-004 | P1 | 文档解析 | 待开发 |
-| REQ-RET-001 | P0 | 检索 | 待开发 |
-| REQ-RET-002 | P0 | 检索 | 待开发 |
-| REQ-RET-003 | P1 | 检索 | 待开发 |
-| REQ-RET-004 | P1 | 检索 | 待开发 |
-| REQ-MUL-001 | P1 | 多模态 | 待开发 |
-| REQ-QA-001 | P0 | 问答 | 待开发 |
-| REQ-QA-002 | P0 | 问答 | 待开发 |
-| REQ-QA-003 | P0 | 问答 | 待开发 |
-| REQ-QA-004 | P1 | 问答 | 待开发 |
-| REQ-QA-005 | P1 | 问答 | 待开发 |
-| REQ-EVL-001 | P1 | 评估 | 待开发 |
-| REQ-UI-001 | P1 | 用户界面 | 待开发 |
+| REQ-ID | 优先级 | 类别 | 阶段 | 状态 |
+|--------|--------|------|------|------|
+| REQ-DOC-001 | P0 | 文档解析 | Phase 1 | 待开发 |
+| REQ-DOC-002 | P0 | 文档解析 | Phase 1 | 待开发 |
+| REQ-DOC-003 | P0 | 文档解析 | Phase 1 | 待开发 |
+| REQ-DOC-004 | P1 | 文档解析 | Phase 4 | 待开发 |
+| REQ-RET-001 | P0 | 检索 | Phase 1 | 待开发 |
+| REQ-RET-002 | P0 | 检索 | Phase 2 | 待开发 |
+| REQ-RET-003 | P1 | 检索 | Phase 2 | 待开发 |
+| REQ-RET-004 | P1 | 检索 | Phase 2 | 待开发 |
+| REQ-MUL-001 | P1 | 多模态 | Phase 4 | 待开发 |
+| REQ-QA-001 | P0 | 问答 | Phase 3 | 待开发 |
+| REQ-QA-002 | P0 | 问答 | Phase 3 | 待开发 |
+| REQ-QA-003 | P0 | 问答 | Phase 3 | 待开发 |
+| REQ-QA-004 | P1 | 问答 | Phase 4 | 待开发 |
+| REQ-QA-005 | P1 | 问答 | Phase 4 | 待开发 |
+| REQ-EVL-001 | P1 | 评估 | Phase 4 | 待开发 |
+| REQ-UI-001 | P1 | 用户界面 | Phase 4 | 待开发 |
 
 ---
 
@@ -344,3 +344,4 @@ REQ-UI-001/高亮定位 ──> 依赖 REQ-QA-002 引用溯源
 
 *Generated: 2026-03-24*
 *Based on: .planning/research/FEATURES.md*
+*See also: .planning/ROADMAP.md*
